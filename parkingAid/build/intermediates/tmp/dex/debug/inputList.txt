@@ -1,0 +1,7 @@
+C:\Users\George\Documents\ParkingAidFinalFinal\TestParkingAid yes\parkingAid\build\intermediates\classes\debug
+C:\Users\George\Documents\ParkingAidFinalFinal\TestParkingAid yes\parkingAid\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-c11f502003dfb09a0a37f83eb25dfba75c758ed0.jar
+C:\Users\George\Documents\ParkingAidFinalFinal\TestParkingAid yes\parkingAid\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-3e47ed01063d0547f57854c5787c35d11002e5d0.jar
+C:\Users\George\Documents\ParkingAidFinalFinal\TestParkingAid yes\parkingAid\build\intermediates\pre-dexed\debug\gson-2.3-261fd538a1507636e6659dfb700ca3667acf6679.jar
+C:\Users\George\Documents\ParkingAidFinalFinal\TestParkingAid yes\parkingAid\build\intermediates\pre-dexed\debug\classes-a6b1af87e8c0fbfb3940fa5c26d7bd131897dc84.jar
+C:\Users\George\Documents\ParkingAidFinalFinal\TestParkingAid yes\parkingAid\build\intermediates\pre-dexed\debug\classes-520209f5953ad8fd0d4ba17b60dd329309937ca8.jar
+C:\Users\George\Documents\ParkingAidFinalFinal\TestParkingAid yes\parkingAid\build\intermediates\pre-dexed\debug\classes-e267d8efc9ae1bd22e828131780efcc68f7454c6.jar

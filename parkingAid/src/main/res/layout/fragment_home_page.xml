@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+android:layout_height="match_parent" android:orientation="vertical"
+tools:context="parkingaid.lpg.com.parkingadd.HomePageFragment"
+    android:weightSum="1">
+
+
+    <TextView
+        android:layout_width="185dp"
+        android:layout_height="wrap_content"
+        android:text="Parking Time"
+        android:id="@+id/parkingTime"
+        android:layout_gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="60dp"
+        android:textSize="20sp"
+        android:background="@drawable/timeborder"
+        android:layout_alignRight="@+id/leavingTime"
+        android:layout_alignEnd="@+id/leavingTime"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="212dp"
+        android:layout_height="wrap_content"
+        android:text="Leaving Time"
+        android:id="@+id/leavingTime"
+        android:layout_marginTop="76dp"
+        android:textSize="20sp"
+        android:layout_below="@+id/parkingTime"
+        android:background="@drawable/timeborder"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="No Notes Added"
+        android:id="@+id/parkingNotes"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginTop="41dp"
+        android:layout_below="@+id/leavingTime"
+        android:background="@drawable/timeborder"
+        android:layout_alignRight="@+id/newPark"
+        android:layout_alignEnd="@+id/newPark"
+        android:padding="5dp"
+        android:gravity="center"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Park"
+        android:id="@+id/newPark"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/buttonshape"
+        android:layout_below="@+id/parkingNotes"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:textColor="#ffffff"
+        android:padding="5dp"
+        android:gravity="center"/>
+
+
+</LinearLayout>
